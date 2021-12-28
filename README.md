@@ -17,5 +17,6 @@ Also, note that the terms *zoetrope* and *phénakistiscope* refer to two differe
 
 ![The assembled phénakistiscope](https://github.com/jfraire/phenakistiscope/blob/main/images/phenakistiscope.jpg?raw=true)
 
+![A sample animated disk](https://github.com/jfraire/phenakistiscope/blob/main/images/cow_abduction.gif?raw=true)
 
 
