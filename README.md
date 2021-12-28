@@ -19,4 +19,24 @@ Also, note that the terms *zoetrope* and *phénakistiscope* refer to two differe
 
 ![A sample animated disk](https://github.com/jfraire/phenakistiscope/blob/main/images/cow_abduction.gif?raw=true)
 
+## Bill of materials
+
+Item | Reference | Description
+---|---|---
+U1|LM7805|5V voltage regulator
+U2|ATTINY85-20PU|ATtiny85 micro-controller
+R1|220 Ω|Resistor
+C1|0.33 μF|Capacitor
+C2|0.1 μF|Capacitor
+C3|0.1 μF|Capacitor
+J1|Screw Terminal 01x02|Terminal block for power 
+J2|Conn 01x03 Male|3 pins, male connector for the servo motor
+J3|Screw Terminal 01x06|Terminal block for the potentiometers
+J4|Screw Terminal 01x02|Terminal block for the LEDs
+
+And not in the schema:
+
+1. Continuous rotation servo motor FS90R
+2. Two 10kΩ potentiometers
+3. Four white LEDs
 
