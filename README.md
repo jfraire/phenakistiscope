@@ -15,7 +15,7 @@ In this repository you will find the electronic schema, the code, the BOM, and t
 
 Also, note that the terms *zoetrope* and *phénakistiscope* refer to two different devices. However, zoetropes may include the same kind of disks at the bottom of the animation drums and they exploit the same principle to display animations. The KiCAD files are named *zoetrope*.
 
-
+![The assembled phénakistiscope](https://github.com/jfraire/phenakistiscope/blob/main/images/phenakistiscope.jpg?raw=true)
 
 
 
