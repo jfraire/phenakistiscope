@@ -40,3 +40,7 @@ And not in the schema:
 2. Two 10kΩ potentiometers
 3. Four white LEDs
 
+## Contents of the repository
+
+You will find the KiCAD files under `kicad`. The code and make file for the micro-controller is in `src`. The KiCAD files include the lay out of the PCB, which is small and easy to solder. The `img` folder contains an example disk.
+
