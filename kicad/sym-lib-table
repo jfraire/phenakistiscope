@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name zoetrope_attiny-rescue)(type Legacy)(uri ${KIPRJMOD}/zoetrope_attiny-rescue.lib)(options "")(descr ""))
+)

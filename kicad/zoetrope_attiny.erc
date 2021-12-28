@@ -1,0 +1,8 @@
+ERC report (sam. 24 avril 2021 00:57:54 CEST, Encoding UTF8 )
+
+***** Sheet /
+ErrType(5): Conflict problem between pins. Severity: error
+    @(82,55 mm, 66,04 mm): Pin 3 (Power output) of component U1 is connected to 
+    @(40,64 mm, 43,18 mm): pin 1 (Power output) of component #FLG0101 (net 1).
+
+ ** ERC messages: 1  Errors 1  Warnings 0
