@@ -44,3 +44,7 @@ And not in the schema:
 
 You will find the KiCAD files under `kicad`. The code and make file for the micro-controller is in `src`. The KiCAD files include the lay out of the PCB, which is small and easy to solder. The `img` folder contains an example disk.
 
+## Credits
+
+The makefile to compile this project was taken from the book [Make: AVR Programming](https://www.amazon.fr/Make-AVR-Programming-Elliot-Williams/dp/1449355781), by Elliot Williams. This book has given me more than a few hours of pleasure.
+
